@@ -72,3 +72,16 @@ ul li {
     background-color: #fff;
     color: black;
 }
+
+section {
+    background-color: #e6c9a2;
+    color: #622712;
+    padding: 15px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section h2 {
+    font-size: 26px;
+    font-weight: 800;
+}
+
