@@ -5,10 +5,26 @@
 
 body {
     margin: 0;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 17px;
-    color: #fff;
+    color: black;
     line-height: 1.6;
+}
+
+.baskervville-sc-regular {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.merienda-title {
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+ul li {
+    padding: 0 10px;
 }
 
 #showcase {
@@ -26,10 +42,20 @@ body {
 #showcase h1 {
     font-size: 50px;
     line-height: 1.2;
+    color: #fff;
 }
 
 #showcase p {
-    font-size: 20px;
+    font-size: 30px;
+    font-style: italic;
+    color: #fff;
+}
+
+#showcase h2 {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 700;
+    color: #fff;
 }
 
 #showcase .button {
